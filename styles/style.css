@@ -94,14 +94,13 @@
     text-transform: uppercase;
     color: #FFFFFF;
     font-size: 22px;    
-    top: 0;
+    top: 655px;
     z-index: 2;
   }
 
   .cover__description-text {   
     word-spacing: 18px;
-    margin-top: 667px;
-    margin-left: 78px;
+    margin-left: 80px;
   }
 
   .bet-button {     
@@ -112,10 +111,7 @@
     font-size: 22px;
     width: 256px;
     height: 51px;
-    top: 0;
-    margin-top: 655px;
-    margin-left:794px;
-    position: absolute;
+    margin-left:75px;
   }
 
   .lots {
